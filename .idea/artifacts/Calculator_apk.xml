@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="apk" build-on-make="true" name="Calculator.apk">
+    <output-path>$PROJECT_DIR$/out/artifacts/Calculator_apk</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="Calculator.apk.apk" />
+  </artifact>
+</component>
